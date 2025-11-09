@@ -33,3 +33,19 @@
     @apply text-lg sm:text-xl text-earth-600 max-w-3xl mx-auto;
   }
 }
+
+/* WhatsApp Button Mobile Optimization */
+@media (max-width: 640px) {
+  .whatsapp-mobile-fix {
+    bottom: 1rem !important;
+    right: 1rem !important;
+    width: 56px !important;
+    height: 56px !important;
+  }
+}
+
+/* Ensure it's above everything */
+.whatsapp-button-container {
+  z-index: 9999 !important;
+  position: fixed !important;
+}
