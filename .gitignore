@@ -24,8 +24,3 @@ dist-ssr
 *.sw?
 
 
-# .gitignore
-node_modules
-.env
-dist
-

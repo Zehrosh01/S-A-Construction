@@ -151,7 +151,7 @@ export const testimonials = [
 ];
 
 export const socialLinks = {
-  whatsapp: "8551970092",
+  whatsapp: "8551970098",
   facebook: "https://facebook.com",
   instagram: "https://www.instagram.com/_s.a_construction?utm_source=qr&igsh=cThudThtdG5yNGFq",
   linkedin: "https://linkedin.com",
