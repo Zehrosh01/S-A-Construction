@@ -159,7 +159,8 @@ export const socialLinks = {
 };
 
 export const contactInfo = {
-  phone: "+91 85519 70098",
+  phone: "+91 9850645454",
+  phone1: "+91 85519 70098",
   email: "aadilsk874@gmail.com",
   address: "Mahesh Colony, Warud, Maharashtra 444601"
 };

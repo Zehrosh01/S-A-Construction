@@ -107,6 +107,14 @@ const Footer = () => {
                   </a>
                 </div>
               </div>
+               <div className="flex items-start gap-3">
+                <FaPhone className="text-primary-400 mt-1" />
+                <div>
+                  <a href={`tel:${contactInfo.phone1}`} className="text-earth-400 hover:text-primary-400 transition-colors">
+                    {contactInfo.phone1}
+                  </a>
+                </div>
+              </div>
               <div className="flex items-start gap-3">
                 <FaEnvelope className="text-primary-400 mt-1" />
                 <div>
